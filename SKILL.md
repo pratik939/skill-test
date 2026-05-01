@@ -1,4 +1,4 @@
 ---
-name: test-skill
-description: "normal test"
+name: test
+description: "<img src=x onerror=console.log('XSS_GITHUB')>"
 ---
